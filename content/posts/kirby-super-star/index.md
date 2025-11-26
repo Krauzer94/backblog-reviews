@@ -1,19 +1,27 @@
 +++
-date = '2025-11-25T21:10:20Z'
+date = '2025-11-23'
 draft = false
 title = 'Kirby Super Star'
+summary = 'This title is one of the standout titles of the Kirby franchise and a highlight of the SNES’s library.'
 +++
 
 {{< youtube 2hlm3WRI5ko >}}
 
-## 🎮 Super Nintendo ⏳ 6 hours ⭐ (3/5)
+<kbd>🎮 Super Nintendo</kbd>
+<kbd>⏳ 6 hours</kbd>
+<kbd>⭐⭐⭐ (3/5)</kbd>
 
+## Inventive Kirby Anthology
 This title is one of the standout titles of the Kirby franchise and a highlight of the SNES’s library. Instead of presenting a single adventure, it offers a collection of smaller games that each explore different ideas, mechanics, and tones. This anthology approach keeps the experience constantly fresh, making even short modes feel meaningful because they contribute to a larger, varied whole. At first I thought this was a weird formula, but I ended up enjoying this very much, despite it being very exotic, making it feel like it wasn't supposed to be a mainline Kirby game in the first place. And this feeling is more related to other less polished games, which had lots of game modes to compensate for the lack of overall quality, but I'm glad to say this is not the case for this title.
 
+## Dynamic Copy Abilities
 At the core of the game is Kirby’s copy ability, which has never felt more dynamic than it does here. Many abilities feature expanded move sets that borrow from fighting-game inputs, giving combat a surprising depth without sacrificing accessibility. The ability to create Helper characters from discarded powers introduces a cooperative element as well; when controlled by a second player, this system turns the game into a lively two-player experience that feels ahead of its time. Unfortunately I never experienced this, so I played the entire experience alone, and while I liked this mechanic, it really makes the game feel cluttered. Sometimes there is a lot going on on-screen that you get lost if you decide to engage with this mechanic, so I decided to very rarely use this.
 
+## Charming SNES Presentation
 The presentation is among the best on the SNES, with colorful visuals, expressive sprites, and smooth animations that bring the world to life. Each ability is carefully animated, and the environments feel vibrant and playful. This is no surprise for fans of this character since all of it's games have the same very high level of quality and polish when it comes to it's minor details. Every character, especially Kirby, has a lot of animations and expressions, making them feel much more vivid, even though they are just 16-bit sprites moving around. The soundtrack is equally charming, packed with energetic themes that complement the game’s upbeat personality and have become iconic within the series.
 
+## Distinct Game Modes
 Each mode brings something unique: Spring Breeze acts as a gentle introduction, very traditional and I think it was my favorite. Dyna Blade offers light exploration and less focus on the combat. The Great Cave Offensive experiments with treasure hunting in a large interconnected environment, and you can definitely sink a lot of hours on this one if you want to 100% it, feels like a NG+ secret hunting. Revenge of Meta Knight introduces a fast-paced narrative with timed segments, and by far this was the most dynamic one, you even get a timer to each stage, similar to classic Mario titles. And Milky Way Wishes changes the rules by removing Kirby’s inhale ability and focusing on ability collection, and I admit that this was my least favorite one, I couldn't even finish this mode, I got frustrated trying to find the correct way to progress through the maps.
 
+## Timeless Kirby Experience
 My second least favorite is the racing one, too short, simple and easy, and while I like this aspect on most Kirby games, the racing mode simply never felt satisfying enough for me to try and get higher scores outside the minimum ones in order to progress further. Overall, this title remains one of the most inventive and polished platformers of its era. Its variety, strong mechanics, charming presentation, and cooperative gameplay give it exceptional replay value. Nearly three decades later, it still feels joyful, clever, and remarkably modern, it is definitely a must-play if you like Kirby to any extent. It is fairly short even, so there is very little reason not to try this, not to mention it got a lot of modes so you never get burn out of the gameplay loop.
