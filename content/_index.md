@@ -1,10 +1,12 @@
 ---
 title: "BackBlog"
-description: "My Backlog Game Reviews"
+description: "BackBlog Game Reviews"
 layout: "page"
 ---
 
-🥳 _Welcome to my gaming backlog reviews blog!_
+<h3 style="color: rgba(255,255,255,0.5); font-weight: 100;">
+Welcome to my gaming backlog reviews blog!
+</h3>
 
 ![Image](./cover.jpg)
 
