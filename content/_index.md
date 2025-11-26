@@ -4,9 +4,9 @@ description: "BackBlog Game Reviews"
 layout: "page"
 ---
 
-<h3 style="color: rgba(255,255,255,0.5); font-weight: 100;">
+{{< faded-heading >}}
 Welcome to my gaming backlog reviews blog!
-</h3>
+{{< /faded-heading >}}
 
 ![Image](./cover.jpg)
 
