@@ -1,5 +1,5 @@
 {
-  "name": "game-reviews",
+  "name": "backblog-reviews",
   "build": {
     "dockerfile": "Dockerfile",
     "context": ".."
