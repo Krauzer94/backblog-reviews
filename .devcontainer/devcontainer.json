@@ -1,9 +1,0 @@
-{
-  "name": "backblog-reviews",
-  "build": {
-    "dockerfile": "Dockerfile",
-    "context": ".."
-  },
-  "remoteUser": "root",
-  "forwardPorts": [ 1313 ]
-}
