@@ -3,7 +3,7 @@ FROM debian:unstable-slim
 ENV DEBIAN_FRONTEND=noninteractive
 
 # Install dependencies
-RUN apt-get update && apt-get install -y \
+RUN apt update && apt install -y \
     hugo \
     && rm -rf /var/lib/apt/lists/*
 
