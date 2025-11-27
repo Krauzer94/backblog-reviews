@@ -9,7 +9,7 @@ summary = 'This title is one of the standout titles of the Kirby franchise and a
 
 <kbd>🎮 Super Nintendo</kbd>
 <kbd>⏳ 6 hours</kbd>
-<kbd>⭐⭐⭐ (3/5)</kbd>
+<kbd>⭐⭐⭐⭐ (4/5)</kbd>
 
 ## Inventive Kirby Anthology
 This title is one of the standout titles of the Kirby franchise and a highlight of the SNES’s library. Instead of presenting a single adventure, it offers a collection of smaller games that each explore different ideas, mechanics, and tones. This anthology approach keeps the experience constantly fresh, making even short modes feel meaningful because they contribute to a larger, varied whole. At first I thought this was a weird formula, but I ended up enjoying this very much, despite it being very exotic, making it feel like it wasn't supposed to be a mainline Kirby game in the first place. And this feeling is more related to other less polished games, which had lots of game modes to compensate for the lack of overall quality, but I'm glad to say this is not the case for this title.
