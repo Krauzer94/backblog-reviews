@@ -2,8 +2,9 @@
 FROM alpine:latest
 
 # Install dependencies
-RUN apk update && apk add --no-cache \
-    hugo
+RUN apk add --no-cache \
+    hugo \
+    && rm -rf /var/cache/apk/*
 
 # Working directory
 WORKDIR /app
@@ -12,4 +13,4 @@ WORKDIR /app
 EXPOSE 1313
 
 # Start the container
-CMD [ "hugo", "server", "-D", "--bind", "0.0.0.0" ]
+CMD ["hugo", "server", "-D", "--bind", "0.0.0.0"]
