@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://krauzer94.github.io/backblog-reviews/sitemap.xml
