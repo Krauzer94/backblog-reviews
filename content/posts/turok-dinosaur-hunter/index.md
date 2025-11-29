@@ -2,7 +2,7 @@
 date = '2025-10-31'
 draft = false
 title = 'Turok Dinosaur Hunter'
-summary = 'A landmark release for the N64 and one of the first console FPSs to show that the genre could thrive outside of PC'
+summary = 'A landmark release for the N64 and one of the first console FPSs to show that the genre could thrive outside of PC.'
 +++
 
 {{< youtube TrTkfr5xQP4 >}}
