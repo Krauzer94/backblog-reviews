@@ -5,7 +5,7 @@ title = 'Super Castlevania IV'
 summary = 'This is one of the finest examples of how a series can successfully transition into a new generation of hardware.'
 +++
 
-{{< youtube GlTtUnghA3I >}}
+{{< youtube 0fQ54I5N2kU >}}
 
 <kbd>🎮 Super Nintendo</kbd>
 <kbd>⏳ 4 hours</kbd>
