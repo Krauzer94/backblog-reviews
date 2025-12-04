@@ -2,7 +2,7 @@
 date = '2025-10-22'
 draft = false
 title = 'Bomberman Hero'
-summary = "A step away from the franchise's tried-and-true multiplayer formula, venturing into full 3D single-player platforming territory."
+summary = "A step away from the franchise's multiplayer formula, venturing into full 3D single-player platforming territory."
 +++
 
 {{< youtube nt9jVViL5-k >}}
