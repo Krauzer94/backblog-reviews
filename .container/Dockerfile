@@ -1,10 +1,10 @@
 # Container base
-FROM alpine:latest
+FROM debian:unstable-slim
 
 # Install dependencies
-RUN apk add --no-cache \
+RUN apt update && apt install -y \
     hugo \
-    && rm -rf /var/cache/apk/*
+    && rm -rf /var/lib/apt/lists/*
 
 # Working directory
 WORKDIR /app
