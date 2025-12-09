@@ -2,7 +2,7 @@
 date = '2025-10-13'
 draft = false
 title = 'Metal Slug 6'
-summary = "This title is a solid entry in SNK's long-running run-and-gun series, originally an arcade title later ported to the PlayStation 2."
+summary = "A solid entry in SNK's long-running run-and-gun series, originally an arcade title later ported to the PlayStation 2."
 +++
 
 {{< youtube eaMIRkYQbIM >}}
