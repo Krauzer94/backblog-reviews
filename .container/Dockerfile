@@ -1,5 +1,6 @@
 # Container base
 FROM debian:unstable-slim
+ENV DEBIAN_FRONTEND=noninteractive
 
 # Install dependencies
 RUN apt update && apt install -y \
