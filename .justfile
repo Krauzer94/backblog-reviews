@@ -8,7 +8,7 @@ _default:
 # Build the container
 venv-build:
     podman build -t \
-        "$(basename "$PWD"):work" \
+        "$(basename "$PWD"):latest" \
         .container
 
 # Run created container
