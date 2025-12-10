@@ -15,5 +15,5 @@ venv-build:
 venv-run:
     podman run -it --rm \
         -p 1313:1313 \
-        -v "$(pwd)":/app \
+        -v "$(pwd)":/app:Z \
         -w /app "$(basename "$PWD"):app"
