@@ -8,7 +8,7 @@ RUN apt update && apt install -y \
     && rm -rf /var/lib/apt/lists/*
 
 # Working directory
-WORKDIR /app
+WORKDIR /work
 
 # Hugo ports
 EXPOSE 1313

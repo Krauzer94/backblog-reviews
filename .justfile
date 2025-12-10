@@ -8,12 +8,12 @@ _default:
 # Build the container
 venv-build:
     podman build -t \
-        "$(basename "$PWD"):app" \
+        "$(basename "$PWD"):work" \
         .container
 
 # Run created container
 venv-run:
     podman run -it --rm \
         -p 1313:1313 \
-        -v "$(pwd)":/app:Z \
-        -w /app "$(basename "$PWD"):app"
+        -v "$(pwd)":/work:Z \
+        -w /work "$(basename "$PWD"):work"
