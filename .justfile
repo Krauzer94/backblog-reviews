@@ -16,4 +16,4 @@ run:
     podman run -it --rm \
         -p 1313:1313 \
         -v "$(pwd)":/work:Z \
-        -w /work "$(basename "$PWD"):work"
+        -w /work "$(basename "$PWD"):latest"
