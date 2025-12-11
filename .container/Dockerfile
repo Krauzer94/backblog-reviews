@@ -1,5 +1,5 @@
 # Container base
-FROM debian:unstable-slim
+FROM ubuntu:devel
 ENV DEBIAN_FRONTEND=noninteractive
 
 # Install dependencies
