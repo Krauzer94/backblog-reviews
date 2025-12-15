@@ -8,7 +8,7 @@ _default:
 # Build the container
 build:
     podman build -t \
-        "$(basename "$PWD"):latest" \
+        "$(basename "$PWD"):devel" \
         .container
 
 # Run created container
@@ -16,4 +16,4 @@ run:
     podman run -it --rm \
         -p 1313:1313 \
         -v "$(pwd)":/work:Z \
-        -w /work "$(basename "$PWD"):latest"
+        -w /work "$(basename "$PWD"):devel"
