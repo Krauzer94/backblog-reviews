@@ -18,8 +18,7 @@ title = "Backlog Reviews"
   headline = "Tech and gaming enthusiast"
   bio = "I love coffe, cats and anime"
   links = [
-    { link = "https://backloggd.com/u/Krauzer" },
-    { reddit = "https://www.reddit.com/user/lKrauzer" },
-    { steam = "https://steamcommunity.com/profiles/76561198056369940" },
+    { link = "https://linktr.ee/krauzer" },
+    { github = "https://github.com/Krauzer94" },
     { youtube = "https://www.youtube.com/@lKrauzer" },
   ]
