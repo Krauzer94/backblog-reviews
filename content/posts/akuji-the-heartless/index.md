@@ -2,7 +2,7 @@
 date = '2025-12-30'
 draft = false
 title = 'Akuji the Heartless'
-summary = "A third-person action-adventure that you play as a voodoo priest betrayed by his brother and murdered during his wedding."
+summary = "A third-person action-adventure that you play as a voodoo priest betrayed and murdered during his wedding."
 +++
 
 {{< youtube rWaEWvfxwcE >}}

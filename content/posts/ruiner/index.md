@@ -2,7 +2,7 @@
 date = '2025-08-18'
 draft = false
 title = 'Ruiner'
-summary = "A fast-paced twin-stick shooter set in the cyberpunk city where you go through hordes of enemies in a neon-drenched dystopia."
+summary = "A fast-paced twin-stick shooter set in the cyberpunk city where you go through hordes of enemies in a neon dystopia."
 +++
 
 {{< youtube UiS-fBy8Zfw >}}

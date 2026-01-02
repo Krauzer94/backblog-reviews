@@ -2,7 +2,7 @@
 date = '2025-09-18'
 draft = false
 title = 'Insurgency'
-summary = 'A tactical first-person shooter that sets itself apart from mainstream military shooters with its focus on realism and teamwork.'
+summary = 'A tactical FPS that sets itself apart from mainstream military shooters with its focus on realism and teamwork.'
 +++
 
 {{< youtube 0MzHks4xu0o >}}
