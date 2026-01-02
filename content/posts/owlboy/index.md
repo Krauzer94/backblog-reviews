@@ -2,7 +2,7 @@
 date = '2025-08-15'
 draft = false
 title = 'Owlboy'
-summary = "A visually stunning indie platformer, set in a floating world, which you play as a mute owl boy, on a journey of self-discovery."
+summary = "A visually stunning platformer, set in a floating world, which you play as a mute owl boy, on a journey of self-discovery."
 +++
 
 {{< youtube b3qqQpijles >}}
