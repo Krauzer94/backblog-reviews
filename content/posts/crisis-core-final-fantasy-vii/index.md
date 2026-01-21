@@ -1,0 +1,20 @@
++++
+date = '2025-07-07'
+draft = false
+title = 'Crisis Core Final Fantasy VII'
+summary = "A rich backstory centered on Zack Fair, a character previously shrouded in mystery and first introduced in FFVII."
++++
+
+{{< youtube VS_rzcwDp1E >}}
+
+<kbd>🎮 PlayStation Portable</kbd>
+<kbd>⏳ 45 hours</kbd>
+<kbd>⭐⭐⭐⭐⭐ (5/5)</kbd>
+
+## Zack Fair’s Tragedy
+This game offers a rich backstory centered on Zack Fair, a character previously shrouded in mystery and first introduced in the Final Fantasy VII from PlayStation 1. The game blends real-time action combat with RPG elements, a notable shift from the series’ traditional turn-based roots, and it suits the handheld format well. The story adds emotional depth to the FFVII universe, especially as it explores themes of honor, identity, and sacrifice. While the Digital Mind Wave (DMW) slot machine mechanic can feel a bit too random, and I admit that I'm not particularly a fan of this mechanic, the game's heartfelt narrative, strong voice acting, and beautiful cutscenes more than make up for it. It’s a must-play for fans of the original and a standout PSP title.
+
+## Compelling Story Focus
+I had a blast playing this title because it felt like I was playing the Vincent title, but now with a much more relevant character, since Vincent was actually an optional one in the original. This is one of those games you can't put down until you reach the credits, it's pacing is simply phenomenal, you never get bored and the combat sequences are satisfying enough while also having a balanced challenge. Though compared to other entries of the FFVII universe, this tends to be more simplistic when it comes to the combat, what I enjoyed the most was actually the story and characters.
+
+"Embrace your dreams... and whatever happens, protect your honor..."
