@@ -1,0 +1,18 @@
++++
+date = '2025-07-07'
+draft = false
+title = 'Quake 4'
+summary = "A fast-paced FPS that serves as a direct sequel to Quake II, developed by Raven Software using the Doom 3 engine."
++++
+
+{{< youtube 6davNQyFoSw >}}
+
+<kbd>🎮 Steam</kbd>
+<kbd>⏳ 10 hours</kbd>
+<kbd>⭐⭐⭐⭐ (4/5)</kbd>
+
+## Tactical Sci-Fi Sequel
+This PC title is a fast-paced first-person shooter that serves as a direct sequel to Quake II, developed by Raven Software using the Doom 3 engine, which really shows since the visuals and the overall design looks, sounds and feels almost identical. The game blends classic arena-style combat with a more structured single-player campaign, focusing on the war between humans and the biomechanical Strogg, though similar to Doom 3, it focuses more on the "tactical" shooting rather than the old school arena mechanics. The gunplay is tight and satisfying, featuring a solid arsenal of futuristic weapons, though some critics felt the level design and AI were uninspired compared to earlier entries.
+
+## Narrative-Driven Campaign
+Visually, it impressed at launch with atmospheric lighting and detailed environments. Overall, Quake 4 is a solid but not groundbreaking entry in the franchise, offering a gritty sci-fi shooter experience for fans of the genre, and while I don't have much to say about it's multiplayer because I only played the campaign, it is one of it's weak points compared to previous entries, while at the same time, it is clear that this was not the focus on this one. It rather decided to focus on a narrative single-player campaign, similar to what Half-Life and Doom 3 was doing at the time, and this is why I liked this one a lot, this is my kind of shooter.
