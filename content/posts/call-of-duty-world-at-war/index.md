@@ -2,7 +2,7 @@
 date = '2025-06-17'
 draft = false
 title = 'Call of Duty World at War'
-summary = "The game drops you into the Pacific and Eastern Front campaigns, letting you experience the brutality of jungle warfare."
+summary = "It drops you into the Pacific and Eastern Front campaigns, letting you experience the brutality of jungle warfare."
 +++
 
 {{< youtube NEzCNXNNNEA >}}
