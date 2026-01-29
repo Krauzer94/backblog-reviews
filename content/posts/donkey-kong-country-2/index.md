@@ -1,7 +1,7 @@
 +++
 date = '2025-06-30'
 draft = false
-title = "Donkey Kong Country 2 Diddy's Kong Quest"
+title = "Donkey Kong Country 2"
 summary = "It improves upon its predecessor, offering tighter controls, more complex level design, and more."
 +++
 
