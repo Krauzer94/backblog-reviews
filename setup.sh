@@ -1,6 +1,6 @@
 #!/bin/bash
-
 set -euo pipefail
+log() { printf "\n==> %s\n" "$1"; }
 
 HUGO_CMD="hugo"
 REPO="gohugoio/hugo"
@@ -13,46 +13,46 @@ cleanup() {
 trap cleanup EXIT
 
 if command -v "$HUGO_CMD" >/dev/null 2>&1; then
-  echo "✅ Hugo already installed:"
+  log "Hugo already installed"
   hugo version
 else
-  echo "📦 Hugo not found. Installing latest version..."
+  log "Hugo not found. Installing latest version..."
 
-  echo "➡️  Fetching latest Hugo release info..."
+  log "Fetching latest Hugo release info..."
   LATEST_VERSION=$(curl -s https://api.github.com/repos/$REPO/releases/latest \
     | grep '"tag_name":' \
     | sed -E 's/.*"v([^"]+)".*/\1/')
 
   if [[ -z "$LATEST_VERSION" ]]; then
-    echo "❌ Failed to determine latest Hugo version"
+    log "Failed to determine latest Hugo version"
     exit 1
   fi
 
-  echo "➡️  Latest version: $LATEST_VERSION"
+  log "Latest version: $LATEST_VERSION"
 
   ARCHIVE="hugo_extended_${LATEST_VERSION}_linux-amd64.tar.gz"
   DOWNLOAD_URL="https://github.com/$REPO/releases/download/v${LATEST_VERSION}/${ARCHIVE}"
 
-  echo "⬇️  Downloading Hugo..."
+  log "Downloading Hugo..."
   curl -L "$DOWNLOAD_URL" -o "$TMP_DIR/hugo.tar.gz"
 
-  echo "📂 Extracting..."
+  log "Extracting archive..."
   tar -xzf "$TMP_DIR/hugo.tar.gz" -C "$TMP_DIR"
 
-  echo "🚀 Installing Hugo (sudo required)..."
+  log "Installing Hugo (sudo required)..."
   sudo install -m 0755 "$TMP_DIR/hugo" "$INSTALL_DIR/hugo"
 
-  echo "✅ Hugo installed successfully!"
+  log "Hugo installed successfully"
   hugo version
 fi
 
 if [[ -f ".gitmodules" ]]; then
-  echo "🔗 Git submodules detected. Initializing..."
+  log "Git submodules detected. Initializing..."
   git submodule update --init --recursive
-  echo "✅ Submodules ready"
+  log "Submodules ready"
 else
-  echo "ℹ️  No git submodules found"
+  log "No git submodules found"
 fi
 
-echo "🌐 Starting Hugo server..."
+log "Starting Hugo server..."
 exec hugo server -D --bind 0.0.0.0
