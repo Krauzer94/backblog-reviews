@@ -46,5 +46,13 @@ else
   hugo version
 fi
 
+if [[ -f ".gitmodules" ]]; then
+  echo "🔗 Git submodules detected. Initializing..."
+  git submodule update --init --recursive
+  echo "✅ Submodules ready"
+else
+  echo "ℹ️  No git submodules found"
+fi
+
 echo "🌐 Starting Hugo server..."
 exec hugo server -D --bind 0.0.0.0
