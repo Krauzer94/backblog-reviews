@@ -5,7 +5,7 @@ log() { printf "\n==> %s\n" "$1"; }
 # Global variables
 HUGO_CMD="hugo"
 REPO="gohugoio/hugo"
-INSTALL_DIR="/usr/local/bin"
+INSTALL_DIR="$HOME/.local/bin"
 TMP_DIR="$(mktemp -d)"
 
 cleanup() {
@@ -42,9 +42,12 @@ install_hugo() {
     log "Extracting archive..."
     tar -xzf "$TMP_DIR/hugo.tar.gz" -C "$TMP_DIR"
 
-    # Install binary system-wide
-    log "Installing Hugo (sudo required)..."
-    sudo install -m 0755 "$TMP_DIR/hugo" "$INSTALL_DIR/hugo"
+    # Install on user-specific
+    log "Installing Hugo..."
+    if [[ ! -d "$INSTALL_DIR" ]]; then
+      mkdir -p "$INSTALL_DIR"
+    fi
+    install -m 0755 "$TMP_DIR/hugo" "$INSTALL_DIR/hugo"
     log "Hugo installed successfully"
     hugo version
   fi
