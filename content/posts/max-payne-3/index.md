@@ -16,3 +16,9 @@ The third Max Payne title is a gritty, cinematic third-person shooter that deliv
 
 ## Polished Yet Conventional
 Its cover system and physics-driven action elevate every firefight, making them feel dynamic and satisfying, the cover system was a trend at the time, every single TPS implemented this because of Gears of War. The story is dark and violent, supported by top-notch voice acting and an atmospheric soundtrack. While more linear than its predecessors and lacking the noir monologues of old, Max Payne 3 is a worthy sequel. Though the most skippable one out of them all just by the lack of the uniqueness of the noir monologues.
+
+## Visceral Combat Rhythm
+The weighty animations and Euphoria physics make every dive, stumble, and last stand feel visceral, while the sound design sells the chaos of each shootout. The OST deserves special mention, with its pulsing electronic score dynamically reacts to combat, heightening tension and giving the game a distinct, almost hypnotic rhythm that sets it apart from other shooters of its era. That said, the experience isn’t without its frustrations.
+
+## Cinematic Excess & Legacy
+The frequent, unskippable cutscenes and constant camera cuts can disrupt the flow, especially on replays, making the game feel overly cinematic at the expense of player control. Rockstar’s depiction of Brazil also leans heavily on stereotypes, which can feel uncomfortable and dated. Even so, this title remains a technically accomplished and emotionally heavy shooter, one that trades the introspective noir poetry of the originals for raw spectacle and misery, leaving a strong, if divisive, final impression. And although I highly prefer the previous entries more original style, I can still recommend this as a solid shooter overall.
