@@ -1,6 +1,6 @@
 #!/bin/bash
 set -euo pipefail
-log() { printf "\n==> %s\n" "$1"; }
+log() { printf "==> %s\n" "$1"; }
 
 # Global variables
 HUGO_CMD="hugo"
