@@ -16,3 +16,9 @@ Two Worlds II is an ambitious open-world RPG that tries to deliver a rich fantas
 
 ## Improved but Janky
 While improvements over the original are noticeable, it still feels rough around the edges. If you can overlook the jank, there's a surprisingly deep RPG underneath, but it’s not for everyone, I would recommend againts this similarly to the first Witcher game, both had great ideas for the time, but were poorly implemented and already outdated even for the standards of the time they were released.
+
+## Experimental Magic System
+Despite its flaws, this game deserves some credit for its more experimental systems, especially its magic creation mechanics. The ability to combine spell effects, delivery methods, and modifiers allows for a level of creativity rarely seen in RPGs of its era. This system can be genuinely rewarding once understood, encouraging experimentation rather than reliance on predefined abilities. Unfortunately, the game does a poor job of teaching these mechanics, and many people may never fully engage with them before frustration sets in.
+
+## Ambition Without Polish
+Ultimately, this title feels like a game with big ambitions constrained by limited polish and focus. It aims for the scale and freedom of genre giants but lacks the refinement needed to make its ideas consistently enjoyable. For patient people willing to wrestle with its quirks, there’s an interesting and sometimes even charming RPG buried beneath the awkward presentation. For most others, though, it remains a curious relic of early 2010s RPG design, interesting to look back on, but hard to recommend today.
