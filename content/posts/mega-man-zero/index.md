@@ -16,3 +16,9 @@ This title is a bold and challenging evolution of the classic Mega Man formula. 
 
 ## Fast, Skillful Combat
 The game is known for its fast-paced, tight platforming, high difficulty, and slick sprite art. It introduces mission-based gameplay and a ranking system that rewards skill, adding depth and replayability. The story is surprisingly mature for a Mega Man title, and the soundtrack is energetic and fitting. I particularly like the two-weapon combo that this game introduced, it gives you a higher skill level to master, a very fun mechanic. A must-play for fans of action-platformers who enjoy a tough but rewarding experience.
+
+## Relentless Design Philosophy
+One of the most interesting aspects of this game is how it asks more from you than almost any previous Mega Man game. The ranking system subtly pressures you to play aggressively and efficiently, often discouraging grinding or cautious play if you want top ranks. This can feel punishing at first, but it perfectly matches Zero’s character, a relentless warrior pushed to his limits. Even the Cyber-Elf system reflects this philosophy, offering helpful boosts at the cost of your rank, forcing you to choose between survival and mastery.
+
+## A Harsher Legacy
+As for the visuals, the game stands out as one of the most striking titles on the GBA platform, the detailed sprite work, expressive animations, and bleak environments reinforce the tragic tone of a world that has already lost its heroes. It feels like a natural continuation of the Mega Man X legacy, but filtered through a harsher lens. This title doesn’t just feel like a spin-off, it feels like a statement, confidently carving its own identity while delivering one of the most intense and rewarding experiences in the franchise.
