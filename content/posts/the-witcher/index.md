@@ -16,3 +16,9 @@ This game is a dark, narrative-driven RPG developed by CD Projekt Red, introduci
 
 ## Flawed Yet Influential
 While the original release suffered from technical issues and long load times, the Enhanced Edition addressed many of these problems, so despite the game's design problems, if you are willing to play this, don't go for the original, and instead get the enhanced version. Visually and mechanically dated today, the game is still a compelling experience for those who value story and atmosphere over polish. It’s a flawed gem that laid the groundwork for one of the most respected RPG series in gaming.
+
+## Moral Ambiguity Everywhere
+The game’s strongest asset is its oppressive, lived-in atmosphere, the villages feel hostile and morally compromised, monsters are often tragic rather than purely evil, and quests frequently subvert traditional RPG expectations by refusing to offer clean resolutions. The main character reinforces this tone, as neutrality is constantly tested by racism, war, and human cruelty. Even side quests are richly written, often leaving you uneasy about the consequences of your actions, which was relatively rare for RPGs at the time.
+
+## Foundations of Greatness
+From a historical perspective, the very first Witcher entry is fascinating as a foundation rather than a finished masterpiece. Many systems feel experimental, with a lot of ambition, especially in how your choices ripple across the story rather than being resolved immediately. Its haunting OST and bleak visual identity further enhances its unique personality. While it may be difficult to recommend this title for today's standards, its influence and narrative confidence make it an important RPG, one that clearly hinted at the greatness the series would later achieve.
