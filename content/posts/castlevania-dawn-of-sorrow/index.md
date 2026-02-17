@@ -16,3 +16,9 @@ This Castlevania entry for the Nintendo DS is a standout entry in the long-runni
 
 ## Flawed Touch, Timeless Design
 While the touch screen elements (like drawing seals to finish bosses) feel a bit forced, and I'm really not a fan of this mechanic, the tight gameplay, memorable soundtrack, and strong level design make it one of the best Metroidvania titles on the system. This is easily a must-play for fans of SOTN, or Metroidvanias in general, and I'll say the same to all the other similar Castlevania titles, because this formula never gets old.
+
+## Combat Variety & Progression
+The enemy and boss variety further elevates the experience, encouraging experimentation with the Tactical Soul system rather than relying on a single overpowered setup. Absorbing souls and discovering rare abilities gives combat a constant sense of progression, and hunting for specific drops can be surprisingly addictive. Boss encounters are generally well-designed, mixing pattern recognition with aggressive pacing, and they do a great job of testing how well you’ve learned to combine weapons, souls, and movement rather than just raw stats.
+
+## Refined Narrative Legacy
+As for its narrative, this game leans more heavily into anime-inspired character designs and storytelling, which may be divisive for long-time fans, but it still delivers a compelling continuation of Soma’s internal struggle. The themes of destiny, free will, and the lingering shadow of Dracula are handled with enough weight to give context to the action without overstaying their welcome. Taken as a whole, this entry feels like a confident refinement of what Aria of Sorrow started. It is slightly rough around the edges in places, but packed with personality, depth, and replay value that earned its place among the strongest Castlevania titles.
