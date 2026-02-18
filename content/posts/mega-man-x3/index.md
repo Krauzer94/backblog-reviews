@@ -16,3 +16,9 @@ The third MMX entry for the SNES is a high-octane platformer that builds on the 
 
 ## The Weakest SNES X
 This is the weakest MMX from the SNES platform, I can safely say you can skip this one, it is not as "must-play" as the other two previous titles. Though if you are a fan I highly recommend not skipping this one, it is a very enjoyable game even though it has a lot of flaws and it is way less inspiring than previous entries, at the end of the day, this is still MMX, just not the best one that Capcom developed for the SNES platform.
+
+## Visual Ambition, Mixed Design
+As for its visuals, this entry shows small but noticeable improvements over X2, with more detailed sprites and occasional use of scaling effects that push the SNES hardware further. Some stages experiment with verticality and alternate routes, which can be rewarding when hunting for upgrades or optional secrets. That said, these ideas don’t always translate into memorable level flow, and a few stages feel more frustrating than challenging, especially when enemy placement borders on excessive. The increased difficulty can sometimes feel artificial, relying more on damage output than clever design.
+
+## Solid Sound, Lasting Fun
+The OST follows a similar pattern, competent and energetic, but rarely iconic, while there are tracks that fit the fast-paced action well, very few leave a lasting impression compared to the unforgettable themes from earlier entries. Overall, this title succeeds in delivering solid, gameplay and a sense of progression that won't disappoint fans of the series. It may lack the cohesion of its predecessors, but it remains a worth experience for people who want more SNES Mega Man X content to enjoy.
