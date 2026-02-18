@@ -16,3 +16,9 @@ This video-game is widely considered one of the greatest platformers of all time
 
 ## Endless Replay And Discovery
 It was one of the first platformers that I ever played, and I don't know how many times I replayed this one, it simply never gets old, not to mention the amount of ROM hacks you can find online, I highly recommend giving them a try. Particularly speaking I only played a single one of those, but I intend to come back to it's community and explore it a bit more in the future, it really feels like you can never get tired of playing the. I also highly encourage this one to be 100%, try to find and play all the levels and secrets is one of the best times in gaming history you can put yourself through.
+
+## Natural Learning Curve
+Beyond its core mechanics, what elevates the experience is how well the game treats you without excessive hand-holding. Each new mechanic is introduced naturally through level design, allowing you to learn by doing rather than through intrusive tutorials (a rare thing nowadays in the gaming industry). The difficulty curve is carefully balanced, early stages feel welcoming, while later levels demand precision without feeling unfair. This approach makes progression satisfying and shows why the game remains approachable for newcomers while still rewarding for veterans.
+
+## Lasting Cultural Legacy
+Another highlight is the its enduring cultural and community impact, decades after its release, it continues to inspire speedrunners, modders, and retro enthusiasts, proving the strength of its design philosophy. Whether you are chasing faster completion times, experimenting with custom levels, or simply revisiting it for nostalgia, the game offers something meaningful on every return. Few titles manage to feel both historically important and endlessly replayable, and this is one of those rare cases where time has only reinforced its legacy.
