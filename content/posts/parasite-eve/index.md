@@ -16,3 +16,9 @@ Parasite Eve is a unique mix of survival horror and turn-based RPG elements, dev
 
 ## Cult Classic Appeal
 While the game is relatively short and linear, its bold genre fusion and memorable boss fights make it a cult classic of the PS1 era, it's especially recommended for fans of Final Fantasy and Resident Evil looking for something in between, and as I already said, just the perfect mix for my taste. I remember not being able to progress further than the first few stages because of the english knowledge limitation, but I managed to pull it off when I replayed it on modern platforms, not just that but I had a lot of fun grinding some levels to be able to make Aya OP since her powers are very fun to use.
+
+## Tense Hybrid Combat
+One aspect that still impresses is how combat manages to feel tense without abandoning its RPG roots. Movement within battles forces you to constantly reposition, creating a sense of urgency closer to an action game than a traditional turn-based system. As you unlock more abilities, encounters become less about raw stats and more about smart positioning and timing, which keeps fights engaging until the very end. This hybrid approach was ambitious for its time, and even now it feels distinct enough to set this game apart from most of its contemporaries.
+
+## Moody Winter Atmosphere
+When it comes to its visuals, the game also holds up remarkably well, the pre-rendered backgrounds capture a moody, wintery New York that complements the story tone, and the body-horror themes still feel bold for a console title from its era. Combined with a darker tale, and significantly more adult story, this title feels like a confident experiment that paid off. It may not be flawless, but its ambition, atmosphere, and memorable protagonist secure its place as one of the most interesting and enduring titles of its platform.
