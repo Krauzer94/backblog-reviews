@@ -13,44 +13,40 @@ cleanup() {
 }
 trap cleanup EXIT
 
-# Check if Hugo is installed
+# Always reinstall latest
 install_hugo() {
+  log "Ensuring latest Hugo installation..."
+
+  # Remove existing Hugo
   if command -v "$HUGO_CMD" >/dev/null 2>&1; then
-    log "Hugo already installed"
-    hugo version
-  else
-    log "Hugo not found. Installing latest version..."
-
-    # Fetch latest Hugo version
-    log "Fetching latest Hugo release info..."
-    LATEST_VERSION=$(curl -s https://api.github.com/repos/$REPO/releases/latest \
-      | grep '"tag_name":' \
-      | sed -E 's/.*"v([^"]+)".*/\1/')
-
-    # Abort if undetermined
-    if [[ -z "$LATEST_VERSION" ]]; then
-      log "Failed to determine latest Hugo version"
-      exit 1
-    fi
-    log "Latest version: $LATEST_VERSION"
-
-    # Download Hugo archive
-    ARCHIVE="hugo_extended_${LATEST_VERSION}_linux-amd64.tar.gz"
-    DOWNLOAD_URL="https://github.com/$REPO/releases/download/v${LATEST_VERSION}/${ARCHIVE}"
-    log "Downloading Hugo..."
-    curl -L "$DOWNLOAD_URL" -o "$TMP_DIR/hugo.tar.gz"
-    log "Extracting archive..."
-    tar -xzf "$TMP_DIR/hugo.tar.gz" -C "$TMP_DIR"
-
-    # Install on user-specific
-    log "Installing Hugo..."
-    if [[ ! -d "$INSTALL_DIR" ]]; then
-      mkdir -p "$INSTALL_DIR"
-    fi
-    install -m 0755 "$TMP_DIR/hugo" "$INSTALL_DIR/hugo"
-    log "Hugo installed successfully"
-    hugo version
+    log "Removing existing Hugo installation..."
+    rm -f "$INSTALL_DIR/hugo"
   fi
+
+  # Fetch latest Hugo version
+  log "Fetching latest Hugo release info..."
+  LATEST_VERSION=$(curl -s https://api.github.com/repos/$REPO/releases/latest \
+    | grep '"tag_name":' \
+    | sed -E 's/.*"v([^"]+)".*/\1/')
+
+  # Download Hugo archive
+  ARCHIVE="hugo_extended_${LATEST_VERSION}_linux-amd64.tar.gz"
+  DOWNLOAD_URL="https://github.com/$REPO/releases/download/v${LATEST_VERSION}/${ARCHIVE}"
+
+  log "Downloading Hugo..."
+  curl -L "$DOWNLOAD_URL" -o "$TMP_DIR/hugo.tar.gz"
+
+  log "Extracting archive..."
+  tar -xzf "$TMP_DIR/hugo.tar.gz" -C "$TMP_DIR"
+
+  # Install on user-environment
+  log "Installing Hugo..."
+  if [[ ! -d "$INSTALL_DIR" ]]; then
+    mkdir -p "$INSTALL_DIR"
+  fi
+  install -m 0755 "$TMP_DIR/hugo" "$INSTALL_DIR/hugo"
+  log "Hugo installed successfully..."
+  hugo version
 }
 
 # Initialize git submodules
