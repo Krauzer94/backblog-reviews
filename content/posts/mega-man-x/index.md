@@ -16,3 +16,9 @@ This Capcom title is a landmark action-platformer that successfully revitalized 
 
 ## Unique Level Mechanics
 Visually, it pushed the SNES hardware with vibrant sprite work and smooth animations. I can't stress this enough when I say this video-game has one of the best OSTs in gaming history, each and every song is better than the last, this is truly one of it's main strengths, and this also sets the bar very high for the other entries in the series. Overall, Mega Man X is a masterclass in platforming and one of the most beloved entries in the series. A must-play for fans of retro action games, definitely one of the best games of all time, and one of the best of the SNES platform.
+
+## Rewarding Exploration
+One of the most impressive aspects of this game is how naturally it encourages exploration without ever forcing it. The hidden Heart Tanks, Sub-Tanks, and armor capsules reward curiosity and skill, making each stage feel layered and replayable. The armor upgrades, in particular, fundamentally change how you approach platforming and combat, turning you from a capable fighter into a powerhouse by the late game. This sense of progression is satisfying and gives the adventure a Metroidvania-like flavor while still maintaining the series’ stage-boss structure.
+
+## Stronger Narrative Focus
+Another standout element is the tone and storytelling, especially for a release from its era, the introduction of Zero, Sigma, and the Maverick Hunters adds emotional weight that the classic series never fully explored. The opening highway stage alone perfectly sets the mood, teaching mechanics organically while establishing the stakes of the conflict. By the time you reach Sigma’s fortress, the challenge feels earned, and the narrative payoff enhances the intensity of the final battles. It’s this blend of tight gameplay and meaningful progression that cements this title as a timeless classic.
