@@ -16,3 +16,9 @@ I really wanted to like this one, but I quit half-way through, it is simply not 
 
 ## Unfair Enemy Mechanics
 I really don't recommend this one, not even if you abuse save-states or have a friend to play along, there are plenty other games to enjoy in coop, this is simply not one of them. But there is one thing that I really like about it, and that is it's style in general, it is very charming, the musics, animations, everything, it is very high quality. I got to admit that this game scared me as a kid, it's sound design is very creepy in my opinion, and even today, as an adult, I still think it is a very creepy sound design, but at least it doesn't scare me anymore haha though some monsters still look gross as hell.
+
+## Cult Horror Charm
+That said, I can understand why this game has such a strong cult following, it clearly has a creative spark. The B-movie horror parody theme is clever, with references to classic monster flicks, sci-fi tropes, and cheesy 1950s aesthetics. Each level introduces new absurd scenarios, babysitters trapped by chainsaw maniacs, tourists surrounded by mummies, suburban neighborhoods invaded by giant ants. And the sheer variety keeps the presentation fresh even when the gameplay loop becomes exhausting, it feels like a playable Saturday morning horror cartoon.
+
+## Creative Chaos Arsenal
+I also have to give credit to the weapon creativity, water pistols, soda cans, silverware, weed whackers, the arsenal is unconventional and fits perfectly with the tone. There’s a solid foundation here for a chaotic, fun co-op experience, especially if both players are willing to embrace the madness. Maybe with more patience I would have pushed through to the end, but as it stands, despite its charm and originality, this is one of those games I appreciate more in concept than in practice.
