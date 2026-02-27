@@ -19,3 +19,6 @@ The art style is heavily influenced by Japanese aesthetics, featuring stylized e
 
 ## Simple Yet Memorable
 Although it is a very simplistic and short game, it is still very enjoyable for fans of stealth games, not all of them need to be overly complex to have high quality. Overall, Aragami received generally favorable reviews for its innovative mechanics and artistic direction. While it has minor technical flaws and occasional shallow design moments, it stands out as a memorable indie stealth game.
+
+## Uncompromising Focus
+What truly helps the game maintain its appeal is how consistently it commits to its core idea, you are fragile, outnumbered, and powerful only when hidden. Unlike many action-stealth hybrids that eventually pushes you toward open combat, it remains focused on tension and positioning from beginning to end. Each successful infiltration feels earned, especially when chaining shadow teleports across rooftops or slipping past patrols without raising a single alarm. Even with its modest scope and occasional rough edges, this game succeeds in delivering a focused and stylish stealth experience.
