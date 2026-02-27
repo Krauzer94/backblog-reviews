@@ -19,3 +19,6 @@ I played through the first couple of hours and definitely saw the appeal. The sh
 
 ## Shallow Long-Term Appeal
 That said, the novelty started to wear off for me after a while, even with different characters and explosive variety, the core loop felt a bit shallow once the initial excitement faded. I didn’t feel strongly compelled to keep going, especially without any real progression system or story hooks to hold my attention. Fun in bursts, but not quite enough to keep me playing long-term.
+
+## Bonus Over Depth
+As a free standalone spin-off , this game ultimately feels more like a bonus than a fully fleshed-out experience. That’s not necessarily a bad thing, it delivers exactly what it promises, loud explosions, absurd heroics, and instant gratification. But because it’s built around spectacle rather than depth, its staying power depends heavily on how much you enjoy replaying similar scenarios for the sheer chaos of it. For a quick co-op session or a nostalgic blast of pixelated destruction, it absolutely does the job.
