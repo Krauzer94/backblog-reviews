@@ -19,3 +19,6 @@ What sets L.A. Noire apart is its revolutionary facial motion capture technology
 
 ## Distinctive Crime Drama
 Though some people may find its slower pace and repetitive case structure less exciting compared to other Rockstar titles, the game’s authenticity, atmosphere, and cinematic storytelling make it stand out. From its smoky jazz soundtrack to its morally complex narrative, this game remains one of the most ambitious and distinctive crime dramas ever made in gaming.
+
+## Noir Realism and Restraint
+Beyond its core investigations, it also excels in the quiet moments between cases, when you cruise through rain-soaked streets, respond to spontaneous street crimes, or simply absorb the ambient life of post-war Los Angeles. The game map feels grounded, reinforcing the commitment to realism over spectacle. The MC's personal journey adds emotional weight to the procedural structure. While it may not offer the chaotic freedom of other Rockstar Games titles, this itle distinguishes itself through restraint, period authenticity.
