@@ -19,3 +19,6 @@ The AI was advanced for its time, and in my opinion it surpassed ones such as Ha
 
 ## Multiplayer Done Right
 The multiplayer was one of the most fun shooters that I've ever played, I really miss these kinds of multiplayer games nowadays, which are more focused on making a fun experience, rather than trying to make you addicted to grinding the ranks. I highly recommend not skipping this one if you are a fan of shooter games to any extend, it is truly one of the best the genre can provide, and I argue it is very good even if you don't like horror games, the shooting is amazingly satisfying.
+
+## Tension Perfected
+Another standout is how the developers confidently blends horror pacing with explosive action set pieces. Quiet office corridors leads you into a false sense of security before erupting into chaotic firefights or unsettling visions of Alma that blur the line between reality and hallucination. The seamless transitions keep you constantly on edge, and even today, few shooters manage to balance atmosphere and mechanical satisfaction so effectively. It’s a game that understands its restraint, which is why it still holds up as a benchmark in FPS design.
