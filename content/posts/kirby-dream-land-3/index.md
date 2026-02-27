@@ -19,3 +19,6 @@ Gameplay stays true to Kirby’s roots but introduces new layers of depth throug
 
 ## A Gentle Farewell
 While it’s not a particularly challenging game, its slower pace and forgiving design make it perfect for people who value creativity and atmosphere over intensity. As one of the SNES’s final first-party titles, Kirby’s Dream Land 3 serves as a gentle farewell to the console, an imaginative, cozy platformer that embodies Kirby’s spirit of kindness, charm, and playful discovery.
+
+## Melancholy Beneath Pastels
+Another standout is the contrast between the cheerful crayon-like presentation and the surprisingly moody, almost melancholic undertones in certain stages gives the adventure a depth that lingers after the credits roll. Boss encounters range from adorable to unexpectedly eerie, reinforcing the idea that this is a children’s storybook world with hints of something stranger beneath the surface. It may not demand mechanical mastery, but it leaves a lasting impression through tone, artistry, and sincerity.
