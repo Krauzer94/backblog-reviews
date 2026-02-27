@@ -19,3 +19,6 @@ The graphics are among the best 2D sprite work on the PlayStation, featuring det
 
 ## Fast, Fun, Arcade Action
 Load times break up the flow between stages, and occasional slowdown can occur when too many enemies fill the screen. The game is also relatively short, following its arcade roots, though the high difficulty and cooperative play add replay value. Overall, this game remains one of the most entertaining and polished 2D shooters available on the platform. It delivers frantic action, charming visuals, and plenty of humor, making it a standout title for fans of classic arcade gameplay.
+
+## Timeless Arcade Excellence
+Despite these limitations, this release remains a good way to experience the game, especially for those who didn’t have access to the arcade or Neo-Geo versions. The core design is very high quality, branching paths encourage experimentation, hidden prisoners reward attentive play, and mastering weapon pickups becomes essential for surviving later missions. Its balance of challenge and spectacle keeps each run exciting, and chasing a higher score or a cleaner playthrough adds lasting appeal. Even years after its release, it stands out with its art direction, responsive controls, and confident game design.
