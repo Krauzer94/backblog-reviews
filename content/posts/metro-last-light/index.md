@@ -2,7 +2,7 @@
 date = '2025-08-25'
 draft = false
 title = "Metro Last Light"
-summary = 'The second Metro entry is a FPS that masterfully blends survival horror, stealth, and action in a post-apocalyptic Moscow.'
+summary = "This is a FPS that masterfully blends survival horror, stealth, and action in a post-apocalyptic Moscow."
 +++
 
 {{< youtube rdjaTcsPTbY >}}
