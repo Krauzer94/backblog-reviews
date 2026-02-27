@@ -19,3 +19,6 @@ And I have more experience trying to play the mods than the game itself, because
 
 ## Groundbreaking but Challenging
 Despite its flaws, Arma II is a groundbreaking title that helped define the military sim genre, I got into it because of some friends at the time that were fans of the game, so they made me try it out, unfortunately I need to set a low score for this one because of my experience, not because of the quality of the video-game itself.
+
+## Ambition Over Accessibility
+Overall, I can still respect what this game tried to accomplish, even if it wasn’t for me. The ambition behind its scale, systems, and community-driven creativity was undeniable. It’s one of those games that demands patience, communication, and a willingness to learn, and for the right people, that depth is exactly what makes it special. For me, though, it arrived at the wrong time and under the wrong circumstances, and sometimes that’s all it takes for a technically great game to become a frustrating.
