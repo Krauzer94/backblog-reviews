@@ -19,3 +19,6 @@ Outside of combat, the game is less impressive. The open-world setup is restrict
 
 ## Great Combat, Poor Package
 Overall, this game delivers excellent shooting mechanics and atmosphere but falls short in world-building and storytelling. It’s fun in short bursts for the combat, yet underwhelming as a complete package. I really wanted to like this title, but I dropped it after trying for at least three times, and I couldn't get past the five hour mark, this could be one of the best shooters of all time, but I cannot recommend it.
+
+## Unrealized Potential
+Another aspect that held it back for me was the lack of meaningful progression, while there are upgrades, ammo types, and crafting systems, none of them significantly change how you approach encounters, so the gameplay loop starts to feel repetitive despite the strong mechanics. The world also feels strangely lifeless for a post-apocalyptic setting, NPCs are static, choices don’t matter, and there’s little incentive to explore beyond the main path. In the end, it feels like a technically impressive foundation that never fully realizes its potential, which makes the experience more frustrating than outright bad.
