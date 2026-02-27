@@ -19,3 +19,6 @@ You can engage in co-op missions with up to eight participants or test their ski
 
 ## Community-Driven Replayability
 The game has been praised for its replayability and cooperative gameplay, as well as for being free and well-optimized. However, newcomers may face a steep learning curve due to limited tutorials. Despite this, Alien Swarm: Reactive Drop stands out as a community-driven shooter that is both engaging and accessible for tactical gameplay fans. I played it a little bit with some friends, but they didn't enjoyed it very much, unfortunately.
+
+## Old-School Co-Op Charm
+Even so, there’s a certain charm to how this game embraces its old-school, no-nonsense design. It doesn’t rely on flashy progression systems or constant unlock pop-ups to keep you hooked, instead, it focuses on tight coordination, positioning, and disciplined trigger control. When everything clicks, the game delivers tense, satisfying moments that feel genuinely earned. It may not have captured my group for long, but for those who enjoy methodical co-op shooters and don’t mind a bit of challenge, it remains a solid and surprisingly robust free experience.
