@@ -2,7 +2,7 @@
 date = '2026-05-05'
 draft = false
 title = 'Crash Bandicoot The Wrath of Cortex'
-summary = 'The first Crash not made by Naughty Dog which tries to recreate the magic of the originals, but rarely reaches the same polish.'
+summary = 'A title not made by Naughty Dog which tries to recreate the magic of the originals, but rarely reaches the same polish.'
 +++
 
 {{< youtube WBGNZ5xShK8 >}}

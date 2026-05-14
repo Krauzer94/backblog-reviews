@@ -2,7 +2,7 @@
 date = '2026-05-13'
 draft = false
 title = 'Styx Shards of Darkness'
-summary = 'One of those stealth games that earned a loyal following among those who appreciate methodical gameplay and freedom.'
+summary = 'One of those stealth games that earned fans among those who appreciate methodical gameplay and freedom.'
 +++
 
 {{< youtube PiWKm8dpauM >}}
