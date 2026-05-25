@@ -2,7 +2,7 @@
 date = '2026-05-24'
 draft = false
 title = 'Super Metroid'
-summary = 'This Metroid entry is one of the defining games of the 16-bit era and remains one of the most influential titles ever created.'
+summary = 'This entry is one of the defining games of the 16-bit era and remains one of the most influential titles ever created.'
 +++
 
 {{< youtube J_r3N3Ye0OI >}}
