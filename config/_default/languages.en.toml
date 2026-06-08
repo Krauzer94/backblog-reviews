@@ -18,7 +18,6 @@ title = "Backlog Reviews"
   headline = "Tech and gaming enthusiast"
   bio = "I love coffe, cats and anime"
   links = [
-    { link = "https://linktr.ee/krauzer" },
     { github = "https://github.com/Krauzer94" },
     { youtube = "https://www.youtube.com/@lKrauzer" },
   ]
