@@ -2,7 +2,7 @@
 date = '2026-07-15'
 draft = false
 title = 'Covert Ops Nuclear Dawn'
-summary = 'One of those overlooked late-generation titles that quietly carved out its own identity, despite its clear Resident Evil inspirations.'
+summary = 'One of those overlooked titles that quietly carved out its own identity, despite its clear Resident Evil inspirations.'
 +++
 
 {{< youtube S-8N4CURH8U >}}

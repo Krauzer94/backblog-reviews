@@ -2,7 +2,7 @@
 date = '2026-07-08'
 draft = false
 title = 'Middle-earth Shadow of Mordor'
-summary = 'This title successfully captures the brutal atmosphere of Mordor while delivering an experience that feels fresh and engaging.'
+summary = 'It successfully captures the brutal atmosphere of Mordor while delivering an experience that feels fresh and engaging.'
 +++
 
 {{< youtube NMQPS5RBEHM >}}

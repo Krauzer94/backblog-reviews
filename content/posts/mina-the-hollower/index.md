@@ -2,7 +2,7 @@
 date = '2026-06-19'
 draft = false
 title = 'Mina the Hollower'
-summary = 'A remarkable action-adventure game that successfully blends old-school design philosophies with modern gameplay sensibilities.'
+summary = 'A remarkable action-adventure game that blends old-school design philosophies with modern gameplay sensibilities.'
 +++
 
 {{< youtube ErRTNM_AgEY >}}

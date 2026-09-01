@@ -2,7 +2,7 @@
 date = '2026-07-13'
 draft = false
 title = 'Mario Kart Super Circuit'
-summary = 'Built upon the foundation of the Super Mario Kart, it successfully adapts the kart racing formula to a portable platform.'
+summary = 'Built upon the foundation of the Super Mario Kart, it adapts the kart racing formula to a portable platform.'
 +++
 
 {{< youtube ueuL7zR2GxM >}}
