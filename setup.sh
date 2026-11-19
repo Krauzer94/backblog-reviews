@@ -49,11 +49,12 @@ install_hugo() {
   hugo version
 }
 
-# Initialize git submodules
+# Initialize and update git submodules
 load_submodules() {
   if [[ -f ".gitmodules" ]]; then
-    log "Git submodules detected. Initializing..."
+    log "Git submodules detected. Initializing and updating..."
     git submodule update --init --recursive
+    git submodule update --remote --merge
     log "Submodules ready"
   else
     log "No git submodules found"
